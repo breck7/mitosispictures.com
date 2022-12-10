@@ -1,7 +1,7 @@
 import header.scroll
-title Hello world
+title Aloha world
 date 2022.12.10
 
-* This is my first blog post using Scroll. This post will appear in the feed and on the index page.
+* This is a public domain website with pictures and gifs of mitosis.
 groups index
 scrollFooter
