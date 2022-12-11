@@ -1,0 +1,21 @@
+{
+  "name": "mitosispictures.com",
+  "version": "1.0.0",
+  "description": "code  git clone https://github.com/ege-del/bio-db",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breck7/mitosispictures.com.git"
+  },
+  "author": "Breck Yunits et al",
+  "bugs": {
+    "url": "https://github.com/breck7/mitosispictures.com/issues"
+  },
+  "homepage": "https://github.com/breck7/mitosispictures.com#readme",
+  "dependencies": {
+    "jtree": "^59.1.2"
+  }
+}

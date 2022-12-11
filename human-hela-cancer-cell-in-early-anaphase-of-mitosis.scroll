@@ -1,0 +1,13 @@
+import header.scroll
+title Human HeLa cancer cell in early anaphase of mitosis
+description A composite confocal micrograph of a human HeLa cancer cell in early anaphase of mitosis. The microtubules of the cytoskeleton/spindle are fluorescing red, the DNA (chromosomes) green.
+date 12/11/2022
+author https://wellcomecollection.org/concepts/rx65fjhm Paul Andrews/Univ. Dundee.
+
+openGraphImage https://iiif.wellcomecollection.org/image/B0005573/full/880%2C/0/default.jpg
+
+image https://iiif.wellcomecollection.org/image/B0005573/full/880%2C/0/default.jpg
+ caption A composite confocal micrograph of a human HeLa cancer cell in early anaphase of mitosis. The microtubules of the cytoskeleton/spindle are fluorescing red, the DNA (chromosomes) green.
+
+groups index
+scrollFooter

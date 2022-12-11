@@ -1,0 +1,13 @@
+import header.scroll
+title Human HeLa cancer cells, metaphase
+description A deconvolved wide-field fluorescence microscope image of human HeLa cancer cells in metaphase of mitosis. It shows the metaphase plate just about to separate the chromosomes. The chromosomes are white (DAPI stain for DNA), and the centromeres are yellow. The microtubules of the cytoskeleton/spindle are turquoise blue. The purple is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of the microtubules during mitosis.
+date 12/11/2022
+author https://wellcomecollection.org/concepts/rx65fjhm Paul Andrews/Univ. Dundee.
+
+openGraphImage https://iiif.wellcomecollection.org/image/B0005547/full/880%2C/0/default.jpg
+
+image https://iiif.wellcomecollection.org/image/B0005547/full/880%2C/0/default.jpg
+ caption A deconvolved wide-field fluorescence microscope image of human HeLa cancer cells in metaphase of mitosis. It shows the metaphase plate just about to separate the chromosomes. The chromosomes are white (DAPI stain for DNA), and the centromeres are yellow. The microtubules of the cytoskeleton/spindle are turquoise blue. The purple is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of the microtubules during mitosis.
+
+groups index
+scrollFooter

@@ -1,0 +1,13 @@
+import header.scroll
+title Human HeLa cancer cells, mitosis
+description A deconvolved wide-field fluorescence microscope image of human HeLa cancer cells undergoing mitosis - various stages shown - bottom left, metaphase; top anaphase; bottom right telophase and far right early interphase. The chromosomes show up white with a DAPI stain. The cytoskeleton/spindle microtubules are blue/purple. The red is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of microtubules during mitosis.
+date 12/11/2022
+author https://wellcomecollection.org/concepts/rx65fjhm Paul Andrews/Univ. Dundee.
+
+openGraphImage https://iiif.wellcomecollection.org/image/B0005539/full/880%2C/0/default.jpg
+
+image https://iiif.wellcomecollection.org/image/B0005539/full/880%2C/0/default.jpg
+ caption A deconvolved wide-field fluorescence microscope image of human HeLa cancer cells undergoing mitosis - various stages shown - bottom left, metaphase; top anaphase; bottom right telophase and far right early interphase. The chromosomes show up white with a DAPI stain. The cytoskeleton/spindle microtubules are blue/purple. The red is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of microtubules during mitosis.
+
+groups index
+scrollFooter

@@ -1,0 +1,13 @@
+import header.scroll
+title Human HeLa cancer cell, tripolar mitosis
+description A deconvolved wide-field fluorescence microscope image of a human HeLa cancer cell undergoing aberrant mitosis - the spindle has three poles. The microtubules of the spindle show yellow. The purple is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of the microtubules. The centromeres are blue.
+date 12/11/2022
+author https://wellcomecollection.org/concepts/rx65fjhm Paul Andrews/Univ. Dundee.
+
+openGraphImage https://iiif.wellcomecollection.org/image/B0005550/full/880%2C/0/default.jpg
+
+image https://iiif.wellcomecollection.org/image/B0005550/full/880%2C/0/default.jpg
+ caption A deconvolved wide-field fluorescence microscope image of a human HeLa cancer cell undergoing aberrant mitosis - the spindle has three poles. The microtubules of the spindle show yellow. The purple is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of the microtubules. The centromeres are blue.
+
+groups index
+scrollFooter
