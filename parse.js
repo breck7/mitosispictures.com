@@ -3,7 +3,7 @@
 const fs = require("fs");
 const path = require("path");
 const { jtree } = require("jtree");
-const content = fs.readFileSync("bio-db/data/mitosis/db.json", "utf8");
+const content = fs.readFileSync("bio-db/media/mitosis.json", "utf8");
 
 JSON.parse(content).forEach((entry) => {
 	const { title, description, media_link } = entry;
