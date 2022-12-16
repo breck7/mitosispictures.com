@@ -1,0 +1,13 @@
+import header.scroll
+title Mitosis
+description 
+date 12/11/2022
+author https://twitter.com/ Twitter
+
+openGraphImage https://pbs.twimg.com/media/FjeuoT-XEBsaco1?format=jpg&name=small
+
+image https://pbs.twimg.com/media/FjeuoT-XEBsaco1?format=jpg&name=small
+ caption 
+
+groups index
+scrollFooter

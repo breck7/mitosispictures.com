@@ -1,0 +1,13 @@
+import header.scroll
+title Cytokinesis in neural tube cells of chick embryo
+description A deconvolved wide-field fluorescence microscope image of metaphase (a stage of mitosis) in neural tube cells from a chick embryo. The fluorescent compound DAPI (blue) has been used to visualise DNA. Tubulin (microtubules) are in green, and a fluorescent red antibody against phosphorylated histone 3 (phospho H3) shows that these cells are undergoing mitosis.
+date 12/11/2022
+author https://wellcomecollection.org/concepts/rx65fjhm Paul Andrews/Univ. Dundee.
+
+openGraphImage https://iiif.wellcomecollection.org/image/B0005526/full/880%2C/0/default.jpg
+
+image https://iiif.wellcomecollection.org/image/B0005526/full/880%2C/0/default.jpg
+ caption A deconvolved wide-field fluorescence microscope image of metaphase (a stage of mitosis) in neural tube cells from a chick embryo. The fluorescent compound DAPI (blue) has been used to visualise DNA. Tubulin (microtubules) are in green, and a fluorescent red antibody against phosphorylated histone 3 (phospho H3) shows that these cells are undergoing mitosis.
+
+groups index
+scrollFooter

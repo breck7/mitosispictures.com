@@ -1,0 +1,13 @@
+import header.scroll
+title Mitosis
+description Onion root tip mitosis
+date 12/11/2022
+author https://www.flickr.com/photos/davidjthomas/ Dave Thomas
+
+openGraphImage https://live.staticflickr.com/65535/48948740251_d14bbe7d8e_b.jpg
+
+image https://live.staticflickr.com/65535/48948740251_d14bbe7d8e_b.jpg
+ caption Onion root tip mitosis
+
+groups index
+scrollFooter

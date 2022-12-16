@@ -1,0 +1,13 @@
+import header.scroll
+title Mitosis
+description Through the lens of the microscope. Our cells aren't static.
+date 12/11/2022
+author https://www.flickr.com/photos/bennettscience/ Brian
+
+openGraphImage https://live.staticflickr.com/257/32437794852_a3f3a9dc09_b.jpg
+
+image https://live.staticflickr.com/257/32437794852_a3f3a9dc09_b.jpg
+ caption Through the lens of the microscope. Our cells aren't static.
+
+groups index
+scrollFooter

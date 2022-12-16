@@ -1,0 +1,13 @@
+import header.scroll
+title Human HeLa cancer cells, mitosis
+description A deconvolved wide-field fluorescence microscope image of human HeLa cancer cells undergoing mitosis. It shows mitosis waiting for congression (the process that brings all the individual sister chromatid pairs to the metaphase plate). The two chromosomes at the top of the image are not yet aligned on the plate. The DNA is stained blue (DAPI), and the microtubules of the cytoskeleton/spindle red. The green is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of the microtubules during mitosis, and associated with the kinetochores. The turquoise is the overlap between the blue and green fluorescence.
+date 12/11/2022
+author https://wellcomecollection.org/concepts/rx65fjhm Paul Andrews/Univ. Dundee.
+
+openGraphImage https://iiif.wellcomecollection.org/image/B0005551/full/880%2C/0/default.jpg
+
+image https://iiif.wellcomecollection.org/image/B0005551/full/880%2C/0/default.jpg
+ caption A deconvolved wide-field fluorescence microscope image of human HeLa cancer cells undergoing mitosis. It shows mitosis waiting for congression (the process that brings all the individual sister chromatid pairs to the metaphase plate). The two chromosomes at the top of the image are not yet aligned on the plate. The DNA is stained blue (DAPI), and the microtubules of the cytoskeleton/spindle red. The green is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of the microtubules during mitosis, and associated with the kinetochores. The turquoise is the overlap between the blue and green fluorescence.
+
+groups index
+scrollFooter

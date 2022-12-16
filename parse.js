@@ -5,7 +5,7 @@ const path = require("path");
 const { jtree } = require("jtree");
 const content = fs.readFileSync("bio-db/media/mitosis.json", "utf8");
 
-JSON.parse(content).forEach((entry) => {
+JSON.parse(content).forEach((entry,index) => {
 	const { title, description, media_link } = entry;
 	const copywrong_name = entry.copyright_name;
 	const copywrong_link = entry.copyright_link;
@@ -27,6 +27,6 @@ scrollFooter`;
 
 	const permalink = jtree.Utils.stringToPermalink(title);
 
-	const filePath = path.join(__dirname, `${permalink}.scroll`);
+	const filePath = path.join(__dirname, `content_${index}_${permalink}.scroll`);
 	fs.writeFileSync(filePath, file, "utf8");
 });

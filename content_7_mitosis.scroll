@@ -1,0 +1,13 @@
+import header.scroll
+title Mitosis
+description 
+date 12/11/2022
+author https://www.youtube.com/watch?v=CLk6nUmPRdA Youtube
+
+openGraphImage https://www.youtube.com/watch?v=CLk6nUmPRdA
+
+image https://www.youtube.com/watch?v=CLk6nUmPRdA
+ caption 
+
+groups index
+scrollFooter
