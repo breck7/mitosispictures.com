@@ -18,6 +18,6 @@
   "homepage": "https://github.com/breck7/mitosispictures.com#readme",
   "dependencies": {
     "jtree": "^59.1.2",
-    "scroll-cli": "^47.1.2"
+    "scroll-cli": "^48.3.0"
   }
 }

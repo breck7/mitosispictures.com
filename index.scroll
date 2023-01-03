@@ -1,4 +1,6 @@
-import header.scroll
+import settings.scroll
+scrollCssTag
+scrollHeader
 title MitosisPictures.com
 description Pictures of cells dividing
 snippets index

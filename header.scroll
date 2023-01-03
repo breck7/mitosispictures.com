@@ -1,8 +1,5 @@
 importOnly
-github https://github.com/breck7/mitosispictures.com
-viewSourceBaseUrl https://github.com/breck7/mitosispictures.com/blob/main
-twitter https://twitter.com/breckyunits
-email feedback@mitosispictures.com
-baseUrl https://mitosispictures.com
+import settings.scroll
+keyboardNav
 scrollCssTag
 scrollHeader
