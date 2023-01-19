@@ -1,7 +1,7 @@
 import header.scroll
 title Human HeLa cancer cells, cytokinesis
 description A deconvolved wide-field fluorescence microscope image of human HeLa cancer cells undergoing cytokinesis (cell division). The red fluorescence is the microtubules of the cytoskeleton. The white is actin. The blue is DNA (DAPI stain). The green is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of the microtubules during mitosis and cytokinesis. The yellow area is the overlap between the red and the green fluorescence.
-date 12/11/2022
+date 1/19/2022
 author https://wellcomecollection.org/concepts/rx65fjhm Paul Andrews/Univ. Dundee.
 
 openGraphImage https://iiif.wellcomecollection.org/image/B0005544/full/880%2C/0/default.jpg

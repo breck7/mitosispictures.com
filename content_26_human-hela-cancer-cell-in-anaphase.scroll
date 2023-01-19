@@ -1,7 +1,7 @@
 import header.scroll
 title Human HeLa cancer cell in anaphase
 description A deconvolved wide-field fluorescence microscope image of a human HeLa cancer cell in anaphase of mitosis. The chromosomes are fluorescing blue, and the cytoskeleton microtubules green. The red is INCENP, a protein that regulates and targets Aurora B protein kinase, which is involved in the polymerisation /depolymerisation of microtubules during mitosis.
-date 12/11/2022
+date 1/19/2022
 author https://wellcomecollection.org/concepts/rx65fjhm Paul Andrews/Univ. Dundee.
 
 openGraphImage https://iiif.wellcomecollection.org/image/B0005537/full/880%2C/0/default.jpg

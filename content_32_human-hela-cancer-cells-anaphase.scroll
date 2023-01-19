@@ -1,7 +1,7 @@
 import header.scroll
 title Human HeLa cancer cells, anaphase
 description A deconvolved wide-field fluorescence microscope image of human HeLa cancer cells in anaphase of mitosis. The chromosomes are stained green with DAPI. The microtubules of the cytoskeleton/spindle are purple. The red is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of the microtubules during mitosis. Yellow is the overlap between the red and green fluorescence.
-date 12/11/2022
+date 1/19/2022
 author https://wellcomecollection.org/concepts/rx65fjhm Paul Andrews/Univ. Dundee.
 
 openGraphImage https://iiif.wellcomecollection.org/image/B0005540/full/880%2C/0/default.jpg

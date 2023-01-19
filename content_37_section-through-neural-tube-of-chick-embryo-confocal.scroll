@@ -1,7 +1,7 @@
 import header.scroll
 title Section through neural tube of chick embryo, confocal
 description A deconvolved wide-field fluorescence microscope image of a section through the neural tube of a chick embryo. The fluorescent DAPI probe (blue) has been used to show up DNA, and a red fluorescent probe with an antibody to phosphorylated H3 histone (phospho H3) shows where mitosis is taking place. A green fluorescent probe attached to BrdU (5-bromo-2-deoxyuridine), an analogue of thymidine, indicates where DNA synthesis is taking place.
-date 12/11/2022
+date 1/19/2022
 author https://wellcomecollection.org/concepts/rx65fjhm Paul Andrews/Univ. Dundee.
 
 openGraphImage https://iiif.wellcomecollection.org/image/B0005527/full/880%2C/0/default.jpg

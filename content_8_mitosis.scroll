@@ -1,12 +1,12 @@
 import header.scroll
 title Mitosis
 description 
-date 12/11/2022
+date 1/19/2022
 author https://www.youtube.com/watch?v=l21p3gsECGM Youtube
 
 openGraphImage https://www.youtube.com/watch?v=l21p3gsECGM
 
-image https://www.youtube.com/watch?v=l21p3gsECGM
+youTube https://www.youtube.com/watch?v=l21p3gsECGM
  caption 
 
 groups index

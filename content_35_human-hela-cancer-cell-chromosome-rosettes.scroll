@@ -1,7 +1,7 @@
 import header.scroll
 title Human HeLa cancer cell chromosome rosettes
 description A composite image derived from deconvolved wide-field fluorescence microscope images of chromosome prometaphase "rosettes". The chromosomes have been stained with DAPI stains in various colours (orange, blue, mauve and turquoise). The coloured blobs represent the location of probes for centromeres and Aurora B, a protein kinase involved in polymerisation/depolymerisation of microtubules in the spindle during mitosis, and associated with the centromeres.
-date 12/11/2022
+date 1/19/2022
 author https://wellcomecollection.org/concepts/rx65fjhm Paul Andrews/Univ. Dundee.
 
 openGraphImage https://iiif.wellcomecollection.org/image/B0005543/full/880%2C/0/default.jpg

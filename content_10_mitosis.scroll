@@ -1,12 +1,12 @@
 import header.scroll
 title Mitosis
 description Somatic Cell Division
-date 12/11/2022
+date 1/19/2022
 author https://www.youtube.com/watch?v=ZeW8HaCUtOQ Youtube
 
 openGraphImage https://www.youtube.com/watch?v=ZeW8HaCUtOQ
 
-image https://www.youtube.com/watch?v=ZeW8HaCUtOQ
+youTube https://www.youtube.com/watch?v=ZeW8HaCUtOQ
  caption Somatic Cell Division
 
 groups index

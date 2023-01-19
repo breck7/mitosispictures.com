@@ -1,7 +1,7 @@
 import header.scroll
 title Human cancer cell
 description A deconvolved wide-field fluorescence microscope image of a human U20S cancer cell. The microtubules of the cytoskeleton/spindle are fluorescing green. The blue blobs are centromeres stained with human CREST autoantiserum. The red is INCENP, a protein that regulates and targets Aurora B protein kinase, which is involved in the polymerisation /depolymerisation of microtubules during mitosis.
-date 12/11/2022
+date 1/19/2022
 author https://wellcomecollection.org/concepts/rx65fjhm Paul Andrews/Univ. Dundee.
 
 openGraphImage https://iiif.wellcomecollection.org/image/B0005538/full/880%2C/0/default.jpg

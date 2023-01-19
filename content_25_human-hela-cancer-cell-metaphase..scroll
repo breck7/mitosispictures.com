@@ -1,7 +1,7 @@
 import header.scroll
 title Human HeLa cancer cell, metaphase.
 description A deconvolved wide-field fluorescence microscope image of a human HeLa cancer cell in metaphase of mitosis. The chromosomes show whitish blue (DAPI stain for DNA). The microtubules of the cytoskeleton/spindle are blue. The green is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of the microtubules during mitosis. The Red is CENP-F, an outer kinetochore protein that is important for mitosis.
-date 12/11/2022
+date 1/19/2022
 author https://wellcomecollection.org/concepts/rx65fjhm Paul Andrews/Univ. Dundee.
 
 openGraphImage https://iiif.wellcomecollection.org/image/B0005545/full/880%2C/0/default.jpg
