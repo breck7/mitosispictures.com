@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/breck7/mitosispictures.com#readme",
   "dependencies": {
-    "jtree": "^59.1.2",
-    "scroll-cli": "^48.3.0"
+    "jtree": "^62.2.0",
+    "scroll-cli": "^54.0.0"
   }
 }

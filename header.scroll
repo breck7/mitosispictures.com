@@ -1,5 +1,6 @@
 importOnly
 import settings.scroll
 keyboardNav
+metaTags
 scrollCssTag
 scrollHeader
